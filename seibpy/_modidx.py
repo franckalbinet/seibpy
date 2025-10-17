@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://franckalbinet.github.io',
                 'git_url': 'https://github.com/franckalbinet/seibpy',
                 'lib_path': 'seibpy'},
-  'syms': {'seibpy.core': {'seibpy.core.foo': ('core.html#foo', 'seibpy/core.py')}}}
+  'syms': {'seibpy.core': {'seibpy.core.add': ('core.html#add', 'seibpy/core.py')}}}
