@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "This is a function to demo to participants how to use nbdev and documenting my code.\n\nsource\n\nadd\n\n add (a:int, b:int)\n\nAdd two numbers\n\n\n\n\nType\nDetails\n\n\n\n\na\nint\nMy first number\n\n\nb\nint\nMy second number\n\n\nReturns\nint\nThe result is an integer\n\n\n\n\nadd(1, 1)\n\n2",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "seibpy",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "seibpy"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "seibpy",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall seibpy in Development mode\n# make sure seibpy package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to seibpy\n$ nbdev_prepare",
+    "crumbs": [
+      "seibpy"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "seibpy",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/franckalbinet/seibpy.git\nor from conda\n$ conda install -c franckalbinet seibpy\nor from pypi\n$ pip install seibpy\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "seibpy"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "seibpy",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "seibpy"
+    ]
+  }
+]
