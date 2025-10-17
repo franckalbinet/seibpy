@@ -6,5 +6,9 @@
 __all__ = ['add']
 
 # %% ../nbs/00_core.ipynb 4
-def add(a, b): 
+def add(
+    a:int, # My first number
+    b:int # My second number
+    ) -> int: # The result is an integer
+    "Add two numbers"
     return a + b
