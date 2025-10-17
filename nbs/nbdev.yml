@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "seibpy"
+  site-url: "https://franckalbinet.github.io/seibpy"
+  description: "A demo package for IAEA/FAO new python users"
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/seibpy"
